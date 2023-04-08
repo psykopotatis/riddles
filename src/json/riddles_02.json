@@ -1,0 +1,52 @@
+[
+  {
+    "id": 6,
+    "question": "Vad går upp och ner men står ändå stilla?",
+    "answer": "Trappan"
+  },
+  {
+    "id": 7,
+    "question": "Vilket djur går på sina egna tår?",
+    "answer": "Katten"
+  },
+  {
+    "id": 8,
+    "question": "Vilken månad har 28 dagar?",
+    "answer": "Alla månader har minst 28 dagar, men februari har ibland 29 dagar."
+  },
+  {
+    "id": 9,
+    "question": "Vilken klocka tickar mest?",
+    "answer": "En hästur"
+  },
+  {
+    "id": 10,
+    "question": "Vad blir alltid större ju mer du tar bort från det?",
+    "answer": "Ett hål"
+  },
+  {
+    "id": 11,
+    "question": "Vad har fyra ben på morgonen, två ben mitt på dagen och tre ben på kvällen?",
+    "answer": "Människan – hon kryper på alla fyra som bebis, går på två ben som vuxen och använder en käpp som gammal."
+  },
+  {
+    "id": 12,
+    "question": "Vad är det som är svartvitt och rött hela året?",
+    "answer": "En tidning"
+  },
+  {
+    "id": 13,
+    "question": "Vad är det som börjar med E, slutar med E, men bara innehåller en bokstav?",
+    "answer": "En kuvert"
+  },
+  {
+    "id": 14,
+    "question": "Vad blir starkare när man tar bort delar av det?",
+    "answer": "En hårslinga"
+  },
+  {
+    "id": 15,
+    "question": "Vad kan man inte ta emot samtidigt som man ger det?",
+    "answer": "En smäll"
+  }
+]

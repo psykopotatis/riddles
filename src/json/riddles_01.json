@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "Vilket ord blir längre när du tar bort bokstäver från det?",
+    "answer": "Ö"
+  },
+  {
+    "id": 2,
+    "question": "Vad går upp men aldrig ner?",
+    "answer": "Ålder"
+  },
+  {
+    "id": 3,
+    "question": "Vad kan du hålla i din högerhand men inte i din vänsterhand?",
+    "answer": "Din högra armbåge"
+  },
+  {
+    "id": 4,
+    "question": "Vad blir alltid blöt när det torkar?",
+    "answer": "En handduk"
+  },
+  {
+    "id": 5,
+    "question": "Vad är det som man inte kan se men som alltid är framför dig?",
+    "answer": "Framtiden"
+  }
+]
