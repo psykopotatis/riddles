@@ -1,11 +1,12 @@
 const quiz = document.getElementById('quiz');
 const questionDiv = document.getElementById('question');
 const showAnswerButton = document.getElementById('show-answer');
+const nextQuestionButton = document.getElementById('next-question');
 
 let currentQuestionIndex = 0;
 let questions;
 
-fetch('/src/json/riddles_02.json')
+fetch('/src/json/riddles_01.json')
   .then(response => response.json())
   .then(data => {
     questions = data;
@@ -28,3 +29,10 @@ showAnswerButton.addEventListener('click', () => {
   setTimeout(() => answerDiv.style.opacity = 1, 100);
 });
 
+nextQuestionButton.addEventListener('click', () => {
+  currentQuestionIndex++;
+  if (currentQuestionIndex >= questions.length) {
+    currentQuestionIndex = 0;
+  }
+  showQuestion();
+});
