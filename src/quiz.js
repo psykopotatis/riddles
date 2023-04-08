@@ -6,7 +6,7 @@ const nextQuestionButton = document.getElementById('next-question');
 let currentQuestionIndex = 0;
 let questions;
 
-fetch('/src/json/riddles_01.json')
+fetch('/json/riddles.json')
   .then(response => response.json())
   .then(data => {
     questions = data;
@@ -16,7 +16,7 @@ fetch('/src/json/riddles_01.json')
 
 function showQuestion() {
   const question = questions[currentQuestionIndex];
-  questionDiv.innerHTML = `<h2>${question.question}</h2>`;
+  questionDiv.innerHTML = `<h2>${question.id}. ${question.question}</h2>`;
   showAnswerButton.style.display = 'block';
 }
 
