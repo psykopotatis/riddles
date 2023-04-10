@@ -123,5 +123,56 @@
     "id": 25,
     "question": "Vad är det som går upp när regnet kommer ner?",
     "answer": "En paraply"
-  }
+  },
+  {
+    "id": 26,
+    "question": "Vilket ord blir kortare när man lägger till två bokstäver?",
+    "answer": "Kort"
+  },
+  {
+    "id": 27,
+    "question": "Vilket djur tål mest stryk?",
+    "answer": "En trumma"
+  },
+  {
+    "id": 28,
+    "question": "Vilket djur har mest liv i sig?",
+    "answer": "Orm – den har både huvud och svans"
+  },
+  {
+    "id": 29,
+    "question": "Vad är det som kan bli större av att man delar det med andra?",
+    "answer": "En glädje"
+  },
+  {
+    "id": 30,
+    "question": "Vilket djur kan man lita på?",
+    "answer": "Hästen – den går alltid rakt fram"
+  },
+  {
+    "id": 31,
+    "question": "Vad går alltid baklänges?",
+    "answer": "En säng"
+  },
+  {
+    "id": 32,
+    "question": "Vad är det som alltid står rakt upp och ner?",
+    "answer": "En spegel"
+  },
+  {
+    "id": 33,
+    "question": "Vad har städer men inga hus?",
+    "answer": "Karta"
+  },
+  {
+    "id": 34,
+    "question": "Vilket ord kan man inte göra kortare genom att ta bort bokstäver?",
+    "answer": "Kort"
+  },
+  {
+    "id": 35,
+    "question": "Vad är det som går runt i huset utan att röra sig?",
+    "answer": "En trappa"
+  },
+
 ]
